@@ -4,7 +4,7 @@
 I studied at SSAFY(Samsung Software Academy For Youth). <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeong222&layout=compact)
 
-### 🔨 I've used 
+### 🔨 I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
